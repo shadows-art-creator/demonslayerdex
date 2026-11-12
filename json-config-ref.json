@@ -16,7 +16,7 @@
     ],
     "additionalProperties": false,
     "properties": {
-        "discord-token": {
+        "discord-token": {dWmdgVwCC7Uw81MZNIsCGqKuGaGwvw1b}
             "description": "The Discord bot token",
             "type": "string",
             "minLength": 70,
